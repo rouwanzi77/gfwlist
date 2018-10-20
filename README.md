@@ -41,8 +41,7 @@ WARNING:
 
 ---
 
-GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-
+GFWList URL(Github): https://github.com/rouwanzi77/gfwlist/blob/master/gfwlist.txt
 **Notwithstanding Github is competent for distribution, to hedge outages or connection issues we still recommend using any URL below.**
 
 **Official mirror URLs:**
